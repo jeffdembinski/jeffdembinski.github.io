@@ -46,3 +46,7 @@ footer#connect {
     display: flex;
   }
 }
+
+body {
+  padding-bottom: 50px;
+}
